@@ -1,0 +1,91 @@
+@prefix cnid: <http://companjen.name/id/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dbp: <http://dbpedia.org/resource/>.
+@prefix dbpedia-owl: <http://dbpedia.org/ontology/>.
+
+cnid:Thesis a fabio:MastersThesis ;
+    foaf:page <http://purl.utwente.nl/essays/63407> ;
+    foaf:maker cnid:BC ;
+    dct:title "Probabilistically matching author names to researchers"@en ;
+    dct:datePublished "2013-06-20"^^xsd:date ;
+    cito:cites cnid:Thesis_source1 ,
+        cnid:Thesis_source2 ,
+        cnid:Thesis_source3 ,
+        cnid:Thesis_source4 ,
+        cnid:Thesis_source5 ,
+        cnid:Thesis_source6 ,
+        cnid:Thesis_source7 ,
+        cnid:Thesis_source8 ,
+        cnid:Thesis_source9 ,
+        cnid:Thesis_source10 ,
+        cnid:Thesis_source11 ,
+        cnid:Thesis_source12 ,
+        cnid:Thesis_source13 ,
+        cnid:Thesis_source14 ,
+        cnid:Thesis_source15 ,
+        cnid:Thesis_source16 ,
+        cnid:Thesis_source17 ,
+        cnid:Thesis_source18 ,
+        cnid:Thesis_source19 ,
+        cnid:Thesis_source20 ,
+        cnid:Thesis_source21 ,
+        cnid:Thesis_source22 ,
+        cnid:Thesis_source23 ,
+        cnid:Thesis_source24 ,
+        cnid:Thesis_source25 ,
+        cnid:Thesis_source26 ,
+        cnid:Thesis_source27 ,
+        cnid:Thesis_source28 ,
+        cnid:Thesis_source29 ,
+        cnid:Thesis_source30 ,
+        cnid:Thesis_source31 ,
+        cnid:Thesis_source32 ,
+        cnid:Thesis_source33 ,
+        cnid:Thesis_source34 ,
+        cnid:Thesis_source35 ,
+        cnid:Thesis_source36 ,
+        cnid:Thesis_source37 ,
+        cnid:Thesis_source38 ;
+        
+    .
+        
+cnid:Thesis_source1 a fabio:WikiEntry .
+cnid:Thesis_source2 a fabio:Taxonomy .
+cnid:Thesis_source3 a fabio:WikipediaEntry .
+cnid:Thesis_source4 a fabio:JournalArticle .
+cnid:Thesis_source5 a fabio:JournalArticle .
+cnid:Thesis_source6 a fabio:JournalArticle .
+cnid:Thesis_source7 a fabio:JournalArticle .
+cnid:Thesis_source8 a fabio:WorkshopPaper .
+cnid:Thesis_source9 a fabio:WorkingPaper .
+cnid:Thesis_source10 a fabio:WebPage .
+cnid:Thesis_source11 a fabio:ConferencePaper .
+cnid:Thesis_source12 a fabio:WorkshopPaper .
+cnid:Thesis_source13 a fabio:JournalArticle .
+cnid:Thesis_source14 a fabio:JournalArticle .
+cnid:Thesis_source15 a fabio:JournalArticle .
+cnid:Thesis_source16 a fabio:JournalArticle .
+cnid:Thesis_source17 a fabio:JournalArticle .
+cnid:Thesis_source18 a fabio:ConferencePaper .
+cnid:Thesis_source19 a fabio:JournalArticle .
+cnid:Thesis_source20 a fabio:MastersThesis .
+cnid:Thesis_source21 a fabio:JournalArticle .
+cnid:Thesis_source22 a fabio:TechnicalStandard .
+cnid:Thesis_source23 a fabio:JournalArticle .
+cnid:Thesis_source24 a fabio:WebSite .
+cnid:Thesis_source25 a fabio:JournalArticle .
+cnid:Thesis_source26 a fabio:BookChapter .
+cnid:Thesis_source27 a fabio:WebPage .
+cnid:Thesis_source28 a fabio:JournalArticle .
+cnid:Thesis_source29 a fabio:Book .
+cnid:Thesis_source30 a fabio:JournalArticle .
+cnid:Thesis_source31 a fabio:BookChapter .
+cnid:Thesis_source32 a fabio:ConferencePaper .
+cnid:Thesis_source33 a fabio:JournalArticle .
+cnid:Thesis_source34 a fabio:JournalArticle .
+cnid:Thesis_source35 a fabio:JournalArticle .
+cnid:Thesis_source36 a fabio:WikiEntry .
+cnid:Thesis_source37 a fabio:ConferencePaper .
+cnid:Thesis_source38 a fabio:TechnicalReport .
